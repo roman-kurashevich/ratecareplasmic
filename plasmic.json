@@ -1,0 +1,206 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+      "projectApiToken": "Wbd8cw9se25rMi2rRrpRRadcbCyLu0kGHlqrYAOqZSTyzwzy6sGo8uNMgfeacz1STphMdY877QHnmMxscUmqA",
+      "projectName": "Ratecare",
+      "version": "latest",
+      "cssFilePath": "plasmic/ratecare/plasmic_ratecare.module.css",
+      "components": [
+        {
+          "id": "iRqeoTbiT1XU",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+          "renderModuleFilePath": "plasmic/ratecare/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/ratecare/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "EvzDlzcJL-",
+          "name": "Login",
+          "type": "managed",
+          "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+          "renderModuleFilePath": "plasmic/ratecare/PlasmicLogin.tsx",
+          "importSpec": {
+            "modulePath": "../pages/login.tsx"
+          },
+          "cssFilePath": "plasmic/ratecare/PlasmicLogin.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "VGRHqtCqGC",
+          "name": "AuthComponent",
+          "type": "managed",
+          "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+          "renderModuleFilePath": "plasmic/ratecare/PlasmicAuthComponent.tsx",
+          "importSpec": {
+            "modulePath": "AuthComponent.tsx"
+          },
+          "cssFilePath": "plasmic/ratecare/PlasmicAuthComponent.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "PbDjoXhf3g3",
+          "name": "TextInput",
+          "type": "managed",
+          "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+          "renderModuleFilePath": "plasmic/ratecare/PlasmicTextInput.tsx",
+          "importSpec": {
+            "modulePath": "TextInput.tsx"
+          },
+          "cssFilePath": "plasmic/ratecare/PlasmicTextInput.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "text-input"
+        },
+        {
+          "id": "KCgaob0IFeF",
+          "name": "Button",
+          "type": "managed",
+          "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+          "renderModuleFilePath": "plasmic/ratecare/PlasmicButton.tsx",
+          "importSpec": {
+            "modulePath": "Button.tsx"
+          },
+          "cssFilePath": "plasmic/ratecare/PlasmicButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "button"
+        },
+        {
+          "id": "hC9sIEjSfTk",
+          "name": "Signup",
+          "type": "managed",
+          "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+          "renderModuleFilePath": "plasmic/ratecare/PlasmicSignup.tsx",
+          "importSpec": {
+            "modulePath": "../pages/signup.tsx"
+          },
+          "cssFilePath": "plasmic/ratecare/PlasmicSignup.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "YZLiCGN0Fpw",
+          "name": "SearchsvgIcon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Searchsvg.tsx"
+        },
+        {
+          "id": "Du4cwiOcxnd",
+          "name": "ChecksvgIcon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Checksvg.tsx"
+        },
+        {
+          "id": "hA-Xnujtaul",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Icon.tsx"
+        },
+        {
+          "id": "OpqeVbJxX",
+          "name": "SearchIcon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Search.tsx"
+        },
+        {
+          "id": "wyb0uHagtq",
+          "name": "Icon16PxCheckIcon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Icon16PxCheck.tsx"
+        },
+        {
+          "id": "9H_iujjOB6",
+          "name": "Rectangle115Icon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Rectangle115.tsx"
+        },
+        {
+          "id": "vL5tDYGfuP",
+          "name": "Group4195Icon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Group4195.tsx"
+        },
+        {
+          "id": "RQkrkF-o9D",
+          "name": "Ellipse2Icon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Ellipse2.tsx"
+        },
+        {
+          "id": "Wu_MHyL9gO",
+          "name": "Icon16PxCheck2Icon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Icon16PxCheck2.tsx"
+        },
+        {
+          "id": "bApNOA7RQv",
+          "name": "Rectangle116Icon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Rectangle116.tsx"
+        },
+        {
+          "id": "JaVMpU6HAL",
+          "name": "Ellipse3Icon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Ellipse3.tsx"
+        },
+        {
+          "id": "Gtp4Q93f_",
+          "name": "LoaderIcon",
+          "moduleFilePath": "plasmic/ratecare/icons/PlasmicIcon__Loader.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "CbOYAsevcO",
+          "name": "eye_open",
+          "filePath": "../public/plasmic/ratecare/images/eyeOpen.svg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "lrv5ZlI39_",
+          "name": "PlasmicHead",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "2Jn7_fOeic",
+          "name": "Fetcher",
+          "componentImportPath": "@plasmicapp/data-sources"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": []
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.186",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.186/dist/plasmic.schema.json"
+}

@@ -1,0 +1,144 @@
+{
+  "projects": [
+    {
+      "projectId": "nf2Nv99ueYinsR5xWJBp2w",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "renderModule",
+          "assetId": "iRqeoTbiT1XU",
+          "checksum": "0c0b51026dacb0614675c4463223d25f"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "iRqeoTbiT1XU",
+          "checksum": "0c0b51026dacb0614675c4463223d25f"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "EvzDlzcJL-",
+          "checksum": "606c7d42fce39cc14dd93c3e4993c432"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "EvzDlzcJL-",
+          "checksum": "606c7d42fce39cc14dd93c3e4993c432"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "VGRHqtCqGC",
+          "checksum": "e0ed3549776bac0a171bf9195a54c792"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "VGRHqtCqGC",
+          "checksum": "e0ed3549776bac0a171bf9195a54c792"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "PbDjoXhf3g3",
+          "checksum": "eb0045432d202fee84200431b0e9c1e7"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "PbDjoXhf3g3",
+          "checksum": "eb0045432d202fee84200431b0e9c1e7"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "KCgaob0IFeF",
+          "checksum": "2faa02f4b8f9a34ded6b3d17201fa9c1"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "KCgaob0IFeF",
+          "checksum": "2faa02f4b8f9a34ded6b3d17201fa9c1"
+        },
+        {
+          "type": "icon",
+          "assetId": "YZLiCGN0Fpw",
+          "checksum": "ba84f241d2d8bcb01d6cfb7938d7d65f"
+        },
+        {
+          "type": "icon",
+          "assetId": "Du4cwiOcxnd",
+          "checksum": "428818827ab0223b61f13e34d0ec4086"
+        },
+        {
+          "type": "icon",
+          "assetId": "hA-Xnujtaul",
+          "checksum": "0f11171ad10d5e7f90c52748631ab356"
+        },
+        {
+          "type": "icon",
+          "assetId": "OpqeVbJxX",
+          "checksum": "238db1bfc0fb63b01d735fdd2bb8214e"
+        },
+        {
+          "type": "icon",
+          "assetId": "wyb0uHagtq",
+          "checksum": "48b5e92f8d92a71876368b9378c898a1"
+        },
+        {
+          "type": "icon",
+          "assetId": "9H_iujjOB6",
+          "checksum": "3f34796d6cc04aa5b5be8a42e51795cc"
+        },
+        {
+          "type": "icon",
+          "assetId": "vL5tDYGfuP",
+          "checksum": "2c32bad09a4aa94f8ef15fc72c93ea48"
+        },
+        {
+          "type": "icon",
+          "assetId": "RQkrkF-o9D",
+          "checksum": "a5ad34b5068af600525773efb9b092e8"
+        },
+        {
+          "type": "icon",
+          "assetId": "Wu_MHyL9gO",
+          "checksum": "55665f65789d96b1e1ca3437891e96dc"
+        },
+        {
+          "type": "icon",
+          "assetId": "bApNOA7RQv",
+          "checksum": "6c262092630b065901be1b0ab164a5e5"
+        },
+        {
+          "type": "icon",
+          "assetId": "JaVMpU6HAL",
+          "checksum": "1d5495c8c316ff608cacda18bd04f4f1"
+        },
+        {
+          "type": "image",
+          "assetId": "CbOYAsevcO",
+          "checksum": "adc6486cfa83eeda07c0ec2c52a6d840"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "hC9sIEjSfTk",
+          "checksum": "5a65076f14391b822d989ff38bb9942d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "hC9sIEjSfTk",
+          "checksum": "5a65076f14391b822d989ff38bb9942d"
+        },
+        {
+          "type": "icon",
+          "assetId": "Gtp4Q93f_",
+          "checksum": "13075d29d1d7da6059cc507a3e75cd93"
+        },
+        {
+          "assetId": "nf2Nv99ueYinsR5xWJBp2w",
+          "type": "projectCss",
+          "checksum": "88cc0bf65a1826ba1b2dd6ee84dd824e"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.186"
+}
